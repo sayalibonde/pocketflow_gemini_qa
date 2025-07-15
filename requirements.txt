@@ -1,0 +1,2 @@
+pocketflow
+google-generativeai  #pip install google-genai==1.25.0
